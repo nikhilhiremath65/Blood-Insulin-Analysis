@@ -1,0 +1,6 @@
+Put all the activities folders in one directory.
+Put .m file in the same directory. e.g: In the directory we have .m file, Cooking1 folder, EatFood1 folder
+Open .m file in matlab and execute
+Folders - Plots_Features_Selection, PCA_Activity1, PCA_Activity2, Plots_after_PCA will have saved images from the matlab code to view results.
+
+Our code has comments and our reports is quite explainatory.
